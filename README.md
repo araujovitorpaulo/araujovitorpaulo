@@ -1,4 +1,4 @@
-### Olá, pessoa! Pode me chamar de PV 👋
+## Olá, pessoa! Pode me chamar de PV 😎👍
 
  🧠 Atualmente aprendendo PL/SQL e POO <br>
  🤓 Interessado em diversos tópicos da área de tecnologia <br>
