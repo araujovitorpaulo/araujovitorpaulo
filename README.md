@@ -1,22 +1,24 @@
-## Olá, pessoa! Pode me chamar de PV 😎👍
+## Olá, pessoa! Pode me chamar de pv 😎👍
 
- 🧠 Atualmente aprendendo PL/SQL e POO <br>
- 🤓 Interessado em diversos tópicos da área de tecnologia <br>
- 😅 Eu acho codar algo extremamente interessante mas, até o momento, meu conhecimento é beeeem mais ou menos (um dia a gente chega lá!) <br>
+ 🧠 Atualmente tô aprendendo PL/SQL e POO <br>
+ 🤓 Interessado em diversos tópicos e tentando sempre estar presente na área de tecnologia <br>
+ 😅 Codar pra mim é algo extremamente <b>FODA</b> mas, até o momento, meu conhecimento ainda é beeeem mais ou menos (um dia a gente chega lá!) <br>
+
+  <div>
+ <br>
+  <a href="https://instagram.com/pvzera_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/pvzera_" target="_blank"><img src="https://img.shields.io/twitter/follow/pvzera_?color=%231DA1F2&logo=Twitter&style=flat" target="_blank"> </a>
+  <a href="https://discordapp.com/channels/@me/pv#3129/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://linkedin.com/in/araujovitorpaulo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>  
+
+ <br>
+ </div>
+ 
+ ## 
  
  <div>
  <img align="left" alt="araujovitorpaulo's Github Stats" src="https://github-readme-stats-lemon-iota.vercel.app/api?username=araujovitorpaulo&hide=prs&count_private=true&show_icons=true&theme=tokyonight" />
  
- </div>
+ <img align="right" alt="araujovitorpaulo's Github Stats" src="https://github-readme-stats-lemon-iota.vercel.app/api?username=araujovitorpaulo&hide=prs&count_private=true&show_icons=true&theme=tokyonight" />
  
- <!--<div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   
-  <a href="https://instagram.com/pvzera_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://linkedin.com/in/araujovitorpaulo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-
-</div>
--->
+ </div>
