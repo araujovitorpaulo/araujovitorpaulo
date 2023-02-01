@@ -1,8 +1,9 @@
-## Olá, pessoa! Pode me chamar de pv 😎👍
+## Olá, pessoa! Pode me chamar de pv 😎👍 <br>
 
- 🧠 Atualmente tô aprendendo PL/SQL e POO <br>
+ 🧠 Atualmente aprendendo PL/SQL e introdução à POO <br>
  🤓 Interessado em diversos tópicos e tentando sempre estar presente na área de tecnologia <br>
- 😅 Codar é algo extremamente <b>FODA</b> mas, até o momento, meu conhecimento ainda é beeeem mais ou menos (um dia a gente chega lá!) <br>
+ 😅 Codar é algo extremamente foda na minha opinião, mas meu conhecimento até o momento ainda é beeeem mais ou menos <br>
+ 📚 O objetivo é trazer algumas ideias sem noção à vida e, quem sabe, acabar montando um portfolio legalzinho <br>
 
   <div>
  <br>
@@ -20,11 +21,10 @@
  <div>
  <img align="left" alt="araujovitorpaulo's Github Stats" src="https://github-readme-stats-lemon-iota.vercel.app/api?username=araujovitorpaulo&hide=prs&count_private=true&show_icons=true&theme=tokyonight" />
  
+ :zap: Recent Activity
+
 <!--START_SECTION:activity-->
 
-
-
-
 <!--END_SECTION:activity-->
-
+ 
  </div>
