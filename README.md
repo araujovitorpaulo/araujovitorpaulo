@@ -2,7 +2,7 @@
 
  🧠 Atualmente tô aprendendo PL/SQL e POO <br>
  🤓 Interessado em diversos tópicos e tentando sempre estar presente na área de tecnologia <br>
- 😅 Codar pra mim é algo extremamente <b>FODA</b> mas, até o momento, meu conhecimento ainda é beeeem mais ou menos (um dia a gente chega lá!) <br>
+ 😅 Codar é algo extremamente <b>FODA</b> mas, até o momento, meu conhecimento ainda é beeeem mais ou menos (um dia a gente chega lá!) <br>
 
   <div>
  <br>
