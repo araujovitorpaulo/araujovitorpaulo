@@ -1,4 +1,4 @@
-## Olá, pessoa! Pode me chamar de pv 😎👍 <br>
+## Olá, pessoa! Pode me chamar de pv  <br>
 
  🧠 Atualmente aprendendo PL/SQL e introdução à POO <br>
  🤓 Interessado em diversos tópicos e tentando sempre estar presente na área de tecnologia <br>
@@ -18,13 +18,16 @@
  
  ## 
  
+<details>
+ <summary> 👀 Stats & Activies </summary>
  <div>
- <img align="left" alt="araujovitorpaulo's Github Stats" src="https://github-readme-stats-lemon-iota.vercel.app/api?username=araujovitorpaulo&hide=prs&count_private=true&show_icons=true&theme=tokyonight" />
- 
- :zap: Recent Activity
+  <img align="left" alt="araujovitorpaulo's Github Stats" src="https://github-readme-stats-lemon-iota.vercel.app/api?username=araujovitorpaulo&hide=prs&count_private=true&show_icons=true&theme=tokyonight" />
 
-<!--START_SECTION:activity-->
+  <h3>:zap: Recent Activity</h3>
 
-<!--END_SECTION:activity-->
- 
- </div>
+ <!--START_SECTION:activity-->
+
+ <!--END_SECTION:activity-->
+
+  </div>
+</details>
