@@ -23,7 +23,7 @@
  <div>
   <img align="left" alt="araujovitorpaulo's Github Stats" src="https://github-readme-stats-lemon-iota.vercel.app/api?username=araujovitorpaulo&hide=prs&count_private=true&show_icons=true&theme=tokyonight" />
 
-  <h3>:zap: Recent Activity</h3>
+  <!--<h3>:zap: Recent Activity</h3>
 
  <!--START_SECTION:activity-->
 
