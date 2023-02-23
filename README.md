@@ -1,6 +1,6 @@
 ## Olá, pessoa! Pode me chamar de pv  <br>
 
- 🧠 Atualmente aprendendo PL/SQL e introdução à POO <br>
+ 🧠 Atualmente aprendendo PL/SQL e POO <br>
  🤓 Interessado em diversos tópicos e tentando sempre estar presente na área de tecnologia <br>
  😅 Codar é algo extremamente foda na minha opinião, mas meu conhecimento até o momento ainda é beeeem mais ou menos <br>
  📚 O objetivo é trazer algumas ideias sem noção à vida e, quem sabe, acabar montando um portfolio legalzinho <br>
