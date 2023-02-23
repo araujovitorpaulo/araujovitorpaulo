@@ -18,8 +18,7 @@
  
  ## 
  
-<details>
- <summary> 👀 Stats & Activies </summary>
+<summary> Stats & Activies </summary>
  <div>
   <img align="left" alt="araujovitorpaulo's Github Stats" src="https://github-readme-stats-lemon-iota.vercel.app/api?username=araujovitorpaulo&hide=prs&count_private=true&show_icons=true&theme=tokyonight" />
 
@@ -30,4 +29,3 @@
  <!--END_SECTION:activity-->
 
   </div>
-</details>
