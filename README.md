@@ -31,7 +31,7 @@
 ## Quem sou eu
   👽 Olá. Me chamo Paulo Vítor Araújo ou, como todo mundo prefere me chamar, pv! <b>Bem vindo ao meu perfil</b>. <br>
   💻 Sou um entusiasta da tecnologia que gosta de ser desafiado. Sempre em busca de aprender novas tecnologias e colaborar em projetos que acho interessantes. Também venho tentando contribuir com a comunidade e estou sempre aberto a novas oportunidades! <br>
- 📚 O objetivo aqui é trazer algumas ideias à vida e, quem sabe, acabar montando um portfolio legal. <br
+ 📚 O objetivo aqui é trazer algumas ideias à vida e, quem sabe, acabar montando um portfolio legal. <br>
 
 ## Você consegue me achar em
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=Flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/araujovitorpaulo)
