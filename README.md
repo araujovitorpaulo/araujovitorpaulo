@@ -42,10 +42,14 @@
 
 
 ## Estudando atualmente
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=Flat-square&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=Flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=Flat-square&logo=spring&logoColor=white)
+![Insomnia](https://img.shields.io/badge/insomnia-black?style=Flat-square&logo=insomnia&logoColor=5849BE)
+<!--![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=Flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=Flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=Flat-square&logo=javascript&logoColor=%23F7DF1E)
-![Azure](https://img.shields.io/badge/microsoft_azure-0089D6?style=Flat-square&logo=microsoft-azure&logoColor=white)
+![Azure](https://img.shields.io/badge/microsoft_azure-0089D6?style=Flat-square&logo=microsoft-azure&logoColor=white)-->
+
 
 ## Habilidades
 ![Oracle](https://img.shields.io/badge/oracle-F80000?style=Flat-square&logo=oracle&logoColor=white)
