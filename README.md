@@ -25,15 +25,14 @@
 ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=Flat-square&logo=dbeaver&logoColor=white)
 ![VMWare](https://img.shields.io/badge/VMware-231f20?style=Flat-square&logo=VMware&logoColor=white)
 
-## Estatísticas
+<!--## Estatísticas
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=araujovitorpaulo&&show_icons=true&theme=dracula) <br><br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=araujovitorpaulo&show_icons=true&theme=dracula)<br><br>
-<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=araujovitorpaulo&theme=highcontrast&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)-->
-[![GitHub Streak](https://github-readme-streak-stats-sigma-umber.vercel.app?user=araujovitorpaulo&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=araujovitorpaulo&theme=highcontrast&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 ## Contato
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=Flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/araujovitorpaulo)
 [![Discord](https://img.shields.io/badge/discord-%235865F2.svg?style=Flat-square&logo=discord&logoColor=white)](https://discord.com/channels/@me/pv#3129/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=Flat-square&logo=X)](https://twitter.com/pvzera_)
-<!--[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=Flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/pvzera_/)-->
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=Flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/pvzera_/)-->
 <!--[![Outlook](https://img.shields.io/badge/Email-0078D4?style=Flat-square&logo=microsoft-outlook&logoColor=white)](mailto:araujovitorpaulo@outlook.com)-->
